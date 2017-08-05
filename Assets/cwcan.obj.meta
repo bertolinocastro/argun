@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8da9173d9e6f11849b4c4047546630ff
+timeCreated: 1500652767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axl_default
+    100002: Barrel_default21
+    100004: Brackets_default
+    100006: Capsquare_default19
+    100008: Capsquare_default20
+    100010: Cube14_default
+    100012: //RootNode
+    100014: Cylinder62_copy19_default
+    100016: Cylinder62_default
+    100018: Cylinder62_extract23_default
+    100020: Cylinder62_extract24_default
+    100022: L_Bolts_default3
+    100024: R_BracketTop_copy105_default22
+    100026: R_BracketTop_copy13_default22
+    100028: R_BracketTop_default22
+    100030: R_BracketTop_extract12_default22
+    100032: R_BracketTop_extract17_default22
+    100034: spring15_default
+    100036: Torus20_default
+    400000: Axl_default
+    400002: Barrel_default21
+    400004: Brackets_default
+    400006: Capsquare_default19
+    400008: Capsquare_default20
+    400010: Cube14_default
+    400012: //RootNode
+    400014: Cylinder62_copy19_default
+    400016: Cylinder62_default
+    400018: Cylinder62_extract23_default
+    400020: Cylinder62_extract24_default
+    400022: L_Bolts_default3
+    400024: R_BracketTop_copy105_default22
+    400026: R_BracketTop_copy13_default22
+    400028: R_BracketTop_default22
+    400030: R_BracketTop_extract12_default22
+    400032: R_BracketTop_extract17_default22
+    400034: spring15_default
+    400036: Torus20_default
+    2300000: Axl_default
+    2300002: Barrel_default21
+    2300004: Brackets_default
+    2300006: Capsquare_default19
+    2300008: Capsquare_default20
+    2300010: Cube14_default
+    2300012: Cylinder62_copy19_default
+    2300014: Cylinder62_default
+    2300016: Cylinder62_extract23_default
+    2300018: Cylinder62_extract24_default
+    2300020: L_Bolts_default3
+    2300022: R_BracketTop_copy105_default22
+    2300024: R_BracketTop_copy13_default22
+    2300026: R_BracketTop_default22
+    2300028: R_BracketTop_extract12_default22
+    2300030: R_BracketTop_extract17_default22
+    2300032: spring15_default
+    2300034: Torus20_default
+    3300000: Axl_default
+    3300002: Barrel_default21
+    3300004: Brackets_default
+    3300006: Capsquare_default19
+    3300008: Capsquare_default20
+    3300010: Cube14_default
+    3300012: Cylinder62_copy19_default
+    3300014: Cylinder62_default
+    3300016: Cylinder62_extract23_default
+    3300018: Cylinder62_extract24_default
+    3300020: L_Bolts_default3
+    3300022: R_BracketTop_copy105_default22
+    3300024: R_BracketTop_copy13_default22
+    3300026: R_BracketTop_default22
+    3300028: R_BracketTop_extract12_default22
+    3300030: R_BracketTop_extract17_default22
+    3300032: spring15_default
+    3300034: Torus20_default
+    4300000: Axl_default
+    4300002: Barrel_default21
+    4300004: Brackets_default
+    4300006: Capsquare_default19
+    4300008: Capsquare_default20
+    4300010: Cube14_default
+    4300012: Cylinder62_copy19_default
+    4300014: Cylinder62_default
+    4300016: Cylinder62_extract23_default
+    4300018: Cylinder62_extract24_default
+    4300020: L_Bolts_default3
+    4300022: R_BracketTop_copy105_default22
+    4300024: R_BracketTop_copy13_default22
+    4300026: R_BracketTop_default22
+    4300028: R_BracketTop_extract12_default22
+    4300030: R_BracketTop_extract17_default22
+    4300032: spring15_default
+    4300034: Torus20_default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
