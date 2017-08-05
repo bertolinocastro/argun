@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 47
+  controlID: 122
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,7 +92,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1518
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -159,7 +159,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 492}
   m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 96
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 10
+  controlID: 97
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,8 +354,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -367,18 +367,18 @@ MonoBehaviour:
       y: 17
       width: 1299
       height: 637
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 649.5, y: 318.5}
+    m_Scale: {x: 1.2298737, y: 1.2298737}
+    m_Translation: {x: 624.7458, y: 321.3277}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -649.5
-      y: -318.5
-      width: 1299
-      height: 637
+      x: -507.9756
+      y: -261.26886
+      width: 1056.206
+      height: 517.9394
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -414,14 +414,14 @@ MonoBehaviour:
     width: 1299
     height: 772
   m_SceneLighting: 1
-  lastFramingTime: 1318.9593874831278
+  lastFramingTime: 8597.255857008686
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -18.859375, y: 9.0625, z: 31.730469}
+    m_Target: {x: -0.25, y: -4.9072266, z: 60.549805}
     speed: 2
-    m_Value: {x: -18.859375, y: 9.0625, z: 31.730469}
+    m_Value: {x: -0.25, y: -4.9072266, z: 60.549805}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,13 +444,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.17148095, y: 0.4517787, z: -0.088949494, w: 0.8709718}
+    m_Target: {x: 0.20631692, y: 0.3652449, z: -0.08336169, w: 0.90393364}
     speed: 2
-    m_Value: {x: 0.17147979, y: 0.45177564, z: -0.08894889, w: 0.8709659}
+    m_Value: {x: 0.2063153, y: 0.36524203, z: -0.08336104, w: 0.90392655}
   m_Size:
-    m_Target: 44.463078
+    m_Target: 13.084476
     speed: 2
-    m_Value: 44.463078
+    m_Value: 13.084476
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -491,26 +491,26 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: d28affff748bffff828cffff6ccaffff94d3ffffa6d4ffff84d6ffffaadbffff86dcffff94ddffffe6fbffff000000003e280000e42c00000c2d00005e300000
+    m_ExpandedIDs: 26e0f8ffdce0f8ffaae2f8ff80e7f8ff34e8f8ff02eaf8ff0815f9ffa415f9ff7217f9ffa846f9ff7847f9ff4649f9ff5650f9fffa50f9ffc852f9ffb05cf9ff545df9ff205ff9ff0689f9ffd089f9ff9e8bf9ff4a26fbff1427fbffde28fbff9873ffff6c74ffff7a75fffffca1ffff9ea2ffffaca3ffffd8beffff7cbfffff8ac0ffffe6fbffff00000000822d0000f2340000f634000080350000e05300005e540000c27000007c7400007e790000227d0000c2850000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: balcao
+      m_OriginalName: balcao
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 21472
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
   m_ExpandedScenes:
-  - terceiraPessoa
+  - bertolinoScene
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -551,35 +551,35 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Script
+    - Assets/Vuforia/Scripts/Utilities
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/Script
+  - Assets/Vuforia/Scripts/Utilities
   m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\hpcsenai\Documents\ArGun
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 20270000
-    m_LastClickedID: 10016
+    m_SelectedIDs: d2250000
+    m_LastClickedID: 9682
     m_ExpandedIDs: 00000000a02500001e26000042260000c0260000d6260000dc26000098270000a827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: ImageTargetTextures
+      m_OriginalName: ImageTargetTextures
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 9948
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 2}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -619,7 +619,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: bc240000c4240000482c0000be240000ba24000000000000202500001e250000502900006e260000
+    m_ExpandedInstanceIDs: bc240000c4240000482c0000be240000ba24000000000000202500001e250000502900006e26000070260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

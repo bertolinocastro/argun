@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/terceiraPessoa.unity
+- path: Assets/bertolinoScene.unity
   isLoaded: 1
   isActive: 1
