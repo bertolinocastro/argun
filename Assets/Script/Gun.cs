@@ -14,7 +14,7 @@ public class Gun : MonoBehaviour {
             GameObject go = Instantiate(bulletPrefab, spawnObject.position, spawnObject.rotation) as GameObject;
             GameObject fire = Instantiate(effectFogo, spawnObject.position, spawnObject.rotation) as GameObject;
             GameObject smoke = Instantiate(effectFumaca, spawnObject.position, spawnObject.rotation) as GameObject;
-			go.GetComponent<Rigidbody>().AddForce(spawnObject.forward * 300,ForceMode.VelocityChange);
+			go.GetComponent<Rigidbody>().AddForce(spawnObject.forward * 150,ForceMode.VelocityChange);
         }
 	}
 }
